@@ -1,5 +1,8 @@
 # Events management project(ESTSB)
-
+## Created by:
+* Aimane EZRAIDI
+* Mohammed MOUHIHA
+* Youssef HABALA
 ##  :pencil2:  Introduction
 ---
 ###  Objective : 
