@@ -23,10 +23,6 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 ### :ledger: Boostrap
 Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
 
-
-### :five: Hibernate
-Hibernate ORM (or simply Hibernate) is an object relational mapping tool for the Java programming language. It provides a framework for mapping an object-oriented domain model to a relational database. Hibernate handles object-relational impedance mismatch problems by replacing direct, persistent database accesses with high-level object handling functions.
-
 Screenshots
 ---
 - Inscription
